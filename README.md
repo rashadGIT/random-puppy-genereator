@@ -1,2 +1,2 @@
 # Random Puppy Genereator
-This all generator a new animal photo with each click.
+This app is a google chrome extension that generators a new puppy photo with each click.
